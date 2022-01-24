@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<RECORDS>
+<RECORD ID="1" Name="One" Desc="This is One" XXX="YYY" />
+<RECORD ID="2" Name="Two" Desc="This is Two" XXX="YYY" />
+<RECORD ID="3" Name="Three" Desc="This is Three" XXX="YYY" />
+<RECORD ID="4" Name="Four" Desc="This is Four" XXX="YYY" />
+<RECORD ID="5" Name="Five" Desc="This is Five" XXX="YYY" />
+<RECORD ID="6" Name="Six" Desc="This is Six" XXX="YYY" /></RECORDS>
